@@ -56,3 +56,66 @@ $ git push origin main
 
 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Day1 Thursday 06-03-2025
+
+
+Key board shortcuts:
+
+to fetch line :ctrl+g
+to use caps : ctrl+shift+u /ctrl+ u
+to traverse through entire word : ctrl + arrow keys
+
+GIT COMMANDS:
+
+ Git status
+ // to know the current status of our repo
+ 
+$ git clone <URL>
+ // to download a Repo
+ 
+ git clone https://github.com/neelmyna/vvce_mar25
+ // Example to download the repo
+ 
+ $ git pull origin main
+ // command to download the update repo from the server to the local machine 
+ 
+ to make our computer recognise our git account, we must run these two configuration commands:
+ 
+ $ git config --global user.name"Anagha-ng"
+ 
+ $ git config --global user.email"ngangha3@gmail.com"
+ 
+ $ git add.
+ 
+ //git will mark all the files that need to be updated
+ // object created 
+ 
+ $ git commit -m "noted of mtd"
+ 
+ // git creates an object that will include all te file to be uploaded and also it is to be secured (encription) 
+ 
+ $ git push origin main 
+  // push the instuctions , is pused to server
+  
+ $  git pull origins main
+ // pull the instructions
+ 
+ 
+ C program:
+ 
+ .h --> header  file
+ stdio --> library (its in the form of object file)
+ 
+ $ type program.c 
+ // executes the program in the command prompt 
+ 
+ $ cd dayy.1 
+ //includes it in the path
+ 
+ $ dir
+ // shows the directories
+
+
+
